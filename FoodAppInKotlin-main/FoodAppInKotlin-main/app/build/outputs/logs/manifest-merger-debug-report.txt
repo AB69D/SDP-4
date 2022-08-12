@@ -83,7 +83,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kh
 	android:supportsRtl
 		ADDED from C:\Users\khana\Downloads\FoodAppInKotlin-main\FoodAppInKotlin-main\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\khana\Downloads\FoodAppInKotlin-main\FoodAppInKotlin-main\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\khana\Downloads\FoodAppInKotlin-main\FoodAppInKotlin-main\app\src\main\AndroidManifest.xml:10:9-31
 	android:roundIcon
 		ADDED from C:\Users\khana\Downloads\FoodAppInKotlin-main\FoodAppInKotlin-main\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
